@@ -1,0 +1,6 @@
+time="2023-01-28T16:01:49+07:00" level=info msg="Hello Log"
+time="2023-01-28T16:01:49+07:00" level=error msg="Hello Log Err"
+time="2023-01-28T16:01:49+07:00" level=warning msg="Hello Log Warn"
+time="2023-01-28T16:02:24+07:00" level=info msg="Hello Log 2"
+time="2023-01-28T16:02:24+07:00" level=error msg="Hello Log Err 2"
+time="2023-01-28T16:02:24+07:00" level=warning msg="Hello Log Warn 2"
